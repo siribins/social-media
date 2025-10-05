@@ -1,3 +1,3 @@
-SocialFeed | Flutter
-• Social media app with login, post creation, likes, and comments.
-• Supports navigation to individual post views
+SocialFeed | Flutter <br>
+-Social media app with login, post creation, likes, and comments. <br>
+-Supports navigation to individual post views
